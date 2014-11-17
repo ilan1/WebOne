@@ -1,4 +1,4 @@
 WebOne
 ======
 
-Stuff for IEEE-CS @ UW-Milwaukee. Building websites and group projects.
+Website Project for IEEE-CS @ UW-Milwaukee
