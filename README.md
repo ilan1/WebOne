@@ -5,8 +5,7 @@ Website Project for IEEE-CS @ UW-Milwaukee
 
 
 IEEE Website design.
-
-#) means Hyperlink or go to another page.
+<number>) means Hyperlink or go to another page.
 -means the content of that Page.
 
 The Design Layout of Page will be determined by who made it, but the content of page can’t be changed. Only President and Vice-President has authority to change the content of Page. Member can ask to change.
